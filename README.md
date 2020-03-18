@@ -13,3 +13,6 @@ Figure2. Illustration of separable convolution
 
 <img src="./model_illustration/Inception Block.PNG" />
 Figure3. The inception block adopted in the paper and the proposed model
+
+<img src="./model_illustration/Confusion Matrix1.PNG" />
+FIgure4. Confusion matrix on test dataset produced after training 
