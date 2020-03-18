@@ -8,3 +8,8 @@ Wearable computing and context awareness are the focuses of study in the field o
 <img src="./model_illustration/Model Structure.PNG" />
 Figure1. Overall structure of the model proposed
 
+<img src="./model_illustration/Separable Model Illustration.PNG" />
+Figure2. Illustration of separable convolution
+
+<img src="./model_illustration/Inception Block.PNG" />
+Figure3. The inception block adopted in the paper and the proposed model
